@@ -1,4 +1,4 @@
-#FitTracker Android Application#
+# FitTracker Android Application
 
 The FitTracker application is based on a simple fitness theory. Performing any exercise until it becomes challenging has definite fitness advantages. An example is pushups. Pushups done daily, but not to the point of challenge, have limited advantage for building strength and muscle. However, if you push just a single set to the point of difficulty, there are tremendous benefits. 
 
