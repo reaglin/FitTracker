@@ -9,6 +9,9 @@ Every day, as you complete any exercise, you can mark the completion by clicking
 ## Defining Exercises
 <img width="379" height="845" alt="Define_Exercises" src="https://github.com/user-attachments/assets/411a4c97-d270-4187-a54f-63a72d46af28" />
 
+<img width="374" height="849" alt="Add_exercise" src="https://github.com/user-attachments/assets/c1cffba7-70c9-4317-8548-6f9989e7b57c" />
+
+
 ## Marking Exercises as Complete
 <img width="379" height="848" alt="Daily_Select_Completed" src="https://github.com/user-attachments/assets/76171d4c-736b-4f29-95d4-7ef7a50c8a17" />
 
